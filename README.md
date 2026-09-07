@@ -45,7 +45,8 @@ cd shopping_analysis
 streamlit run app.py
 ```
 
-Your browser will open automatically at **http://localhost:8501**.
+Your browser will open automatically at **http://localhost:8501**
+DEPLOYED LINK **https://aayushchouhan9-ibm-bob-proj-app-vmorhv.streamlit.app**.
 
 ---
 
