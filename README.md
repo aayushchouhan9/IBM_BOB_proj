@@ -65,6 +65,9 @@ DEPLOYED LINK **https://aayushchouhan9-ibm-bob-proj-app-vmorhv.streamlit.app**.
 
 ## 🔍 Dataset Columns
 
+DATASET LINK="data/customer_shopping_behavior.csv"
+
+
 | Column | Description |
 |--------|-------------|
 | Customer ID | Unique customer identifier (1–3900) |
